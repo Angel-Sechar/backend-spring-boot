@@ -1,0 +1,8 @@
+# Maven wrapper script should use LF (for Linux/Mac compatibility)
+/mvnw text eol=lf
+
+# Windows batch file should use CRLF
+*.cmd text eol=crlf
+
+# Everything else should use LF
+* text eol=lf
